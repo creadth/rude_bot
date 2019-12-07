@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Creadth\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Creadth\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Creadth\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Creadth\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Creadth\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Creadth.RudeBot.1495283013.00" t="ExcludeRecursive" />
+    <e p="E:\work\Creadth\rude_bot\Creadth.RudeBot" t="IncludeFlat">
+      <e p="Creadth.RudeBot" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Creadth.RudeBot.csproj" t="IncludeRecursive" />
+        <e p="mails.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Creadth.RudeBot.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Creadth.RudeBot.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
